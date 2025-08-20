@@ -32,14 +32,21 @@
     "href": "dp_presentation.html#sensing-and-sorting",
     "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
     "section": "Sensing and Sorting",
-    "text": "Sensing and Sorting\n\n\nYour browser does not support the video tag."
+    "text": "Sensing and Sorting"
+  },
+  {
+    "objectID": "dp_presentation.html#sensing-and-sorting-1",
+    "href": "dp_presentation.html#sensing-and-sorting-1",
+    "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
+    "section": "Sensing and Sorting",
+    "text": "Sensing and Sorting\n\n\n\nRun mutilple simulations\nExtract relevant features\nTrain and Predict (Work in Progress)"
   },
   {
     "objectID": "dp_presentation.html#modeling-cloud-microphysics",
     "href": "dp_presentation.html#modeling-cloud-microphysics",
     "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
     "section": "Modeling Cloud Microphysics",
-    "text": "Modeling Cloud Microphysics\n\n\n\nCloud droplet growth is hard to capture in LES due to assumptions.\nWe use DNS + clustering to better map droplets to superdroplets.\nTrain an ML model and predict an improved estimation of growth rates"
+    "text": "Modeling Cloud Microphysics\n\n\n\nCloud droplet growth is difficult to capture in LES due to assumptions.\nWe use DNS + clustering to better map droplets to superdroplets.\nTrain an ML model and predict an improved estimation of growth rates"
   },
   {
     "objectID": "dp_presentation.html#modeling-cloud-microphysics-1",

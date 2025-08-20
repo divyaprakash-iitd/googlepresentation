@@ -59,15 +59,42 @@ format:
 <img src="sensing.svg" width="800" style="display: block; margin: auto;" />
 
 ## Sensing and Sorting
+<video width="100%" controls loop>
+  <source src="ciliadnd_cropped_1.mp4" type="video/mp4">
+</video>
+
+<br>
+
+<video width="100%" controls loop>
+  <source src="ciliadnd_cropped_2.mp4" type="video/mp4">
+</video>
+<!-- ## Sensing and Sorting
 <video width="100%" style="display: block; margin: auto;" controls autoplay loop>
-  <source src="ciliadnd_cropped_1.webp" type="video/webp">
+  <source src="ciliadnd_cropped_1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<br>
+<img src="signature_cdnd.png" width="800" style="display: block; margin: auto;" /> -->
+
+## Sensing and Sorting
+::: {.columns}
+::: {.column width="30%"}
+- Run mutilple simulations
+- Extract relevant features
+- Train and Predict (Work in Progress)
+:::
+::: {.column width="70%"}
+<img src="signature_cdnd.png" width="600" style="display: block; margin: auto;" />
+<!-- <br> -->
+<img src="signs.png" width="1000" style="display: block; margin: auto;" />
+:::
+:::
+
 
 ## Modeling Cloud Microphysics
 ::: {.columns}
 ::: {.column width="50%"}
-- Cloud droplet growth is hard to capture in LES due to assumptions.
+- Cloud droplet growth is difficult to capture in LES due to assumptions.
 - We use **DNS + clustering** to better map droplets to superdroplets.
 - Train an ML model and predict an improved estimation of growth rates
 :::
