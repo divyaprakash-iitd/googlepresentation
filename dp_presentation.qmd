@@ -41,6 +41,8 @@ format:
 <img src="algo.svg" style="display: block; margin: auto;" />
 <br>
 <img src="particle_def_animation.gif" style="display: block; margin: auto;" />
+<br>
+<div style="text-align: center; font-size: 0.5em;"> Immersed Boundary Method 101</div>
 :::
 :::
 

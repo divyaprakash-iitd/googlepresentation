@@ -11,7 +11,7 @@
     "href": "dp_presentation.html#numerical-modeling",
     "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
     "section": "Numerical Modeling",
-    "text": "Numerical Modeling\n\n\n\nIn-house solver in Fortran, C, Python with CUDA GPU acceleration\nSupports multi-cilia & particle interactions with custom BCs\nExtending to 3D code"
+    "text": "Numerical Modeling\n\n\n\nIn-house solver in Fortran, C, Python with CUDA GPU acceleration\nSupports multi-cilia & particle interactions with custom BCs\nExtending to 3D code\n\n\n   \n\nImmersed Boundary Method 101"
   },
   {
     "objectID": "dp_presentation.html#sensing-with-artificial-cilia",
