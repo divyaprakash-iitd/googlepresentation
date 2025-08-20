@@ -79,7 +79,18 @@ format:
 :::
 
 ## Modeling Cloud Microphysics
-![](plot_nm300_wo_drops.png)
+::: {.columns}
+::: {.column width="50%"}
+- Achieved good prediction accuracy for supersaturation (R² ≈ 0.9)
+- Ongoing a posteriori analysis demonstrates applicability in LES
+:::
+
+::: {.column width="50%"}
+<img src="plot_nm300_wo_drops.png" style="display: block; margin: auto;" width=400 />
+<br>
+<img src="animation.gif" style="display: block; margin: auto;" width=500 />
+:::
+:::
 
 ## Machine Learning for Compressible Flows
 ::: {.columns}
