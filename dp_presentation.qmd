@@ -140,4 +140,6 @@ format:
 
 ## Learn More About My Work
 <!-- ![](qr-code.png) -->
-<img src="qr-code.png" width="500" style="display: block; margin: auto;" />
+<a href="https://dpcfd.com" target="_blank">
+  <img src="qr-code.png" width="500" style="display: block; margin: auto;" />
+</a>
