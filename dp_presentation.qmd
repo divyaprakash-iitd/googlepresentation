@@ -80,12 +80,12 @@ format:
 
 ## Sensing and Sorting
 ::: {.columns}
-::: {.column width="30%"}
-- Run mutilple simulations
+::: {.column width="40%"}
+- Run mutilple simulations to generate data
 - Extract relevant features
 - Train and Predict (Work in Progress)
 :::
-::: {.column width="70%"}
+::: {.column width="60%"}
 <img src="signature_cdnd.png" width="600" style="display: block; margin: auto;" />
 <!-- <br> -->
 <img src="signs.png" width="1000" style="display: block; margin: auto;" />

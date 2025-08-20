@@ -39,7 +39,7 @@
     "href": "dp_presentation.html#sensing-and-sorting-1",
     "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
     "section": "Sensing and Sorting",
-    "text": "Sensing and Sorting\n\n\n\nRun mutilple simulations\nExtract relevant features\nTrain and Predict (Work in Progress)"
+    "text": "Sensing and Sorting\n\n\n\nRun mutilple simulations to generate data\nExtract relevant features\nTrain and Predict (Work in Progress)"
   },
   {
     "objectID": "dp_presentation.html#modeling-cloud-microphysics",
