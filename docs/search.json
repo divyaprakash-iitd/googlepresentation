@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "dp_presentation.html#mimicking-biological-cilia",
+    "href": "dp_presentation.html#mimicking-biological-cilia",
+    "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
+    "section": "Mimicking Biological Cilia",
+    "text": "Mimicking Biological Cilia\n\n\n\nHair-like organelles in animals & microorganisms\nPerform both sensing and actuation functions\nInspire biomimetic engineering in microfluidics"
+  },
+  {
+    "objectID": "dp_presentation.html#numerical-modeling",
+    "href": "dp_presentation.html#numerical-modeling",
+    "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
+    "section": "Numerical Modeling",
+    "text": "Numerical Modeling\n\n\n\nIn-house solver in Fortran, C, Python with CUDA GPU acceleration\nSupports multi-cilia & particle interactions with custom BCs\nExtending to 3D code"
+  },
+  {
+    "objectID": "dp_presentation.html#sensing-with-artificial-cilia",
+    "href": "dp_presentation.html#sensing-with-artificial-cilia",
+    "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
+    "section": "Sensing with Artificial Cilia",
+    "text": "Sensing with Artificial Cilia"
+  },
+  {
+    "objectID": "dp_presentation.html#sensing-with-artificial-cilia-1",
+    "href": "dp_presentation.html#sensing-with-artificial-cilia-1",
+    "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
+    "section": "Sensing with Artificial Cilia",
+    "text": "Sensing with Artificial Cilia"
+  },
+  {
+    "objectID": "dp_presentation.html#sensing-and-sorting",
+    "href": "dp_presentation.html#sensing-and-sorting",
+    "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
+    "section": "Sensing and Sorting",
+    "text": "Sensing and Sorting\n\n\nYour browser does not support the video tag."
+  },
+  {
+    "objectID": "dp_presentation.html#modeling-cloud-microphysics",
+    "href": "dp_presentation.html#modeling-cloud-microphysics",
+    "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
+    "section": "Modeling Cloud Microphysics",
+    "text": "Modeling Cloud Microphysics\n\n\n\nCloud droplet growth is hard to capture in LES due to assumptions.\nWe use DNS + clustering to better map droplets to superdroplets.\nTrain an ML model and predict an improved estimation of growth rates"
+  },
+  {
+    "objectID": "dp_presentation.html#modeling-cloud-microphysics-1",
+    "href": "dp_presentation.html#modeling-cloud-microphysics-1",
+    "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
+    "section": "Modeling Cloud Microphysics",
+    "text": "Modeling Cloud Microphysics"
+  },
+  {
+    "objectID": "dp_presentation.html#machine-learning-for-compressible-flows",
+    "href": "dp_presentation.html#machine-learning-for-compressible-flows",
+    "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
+    "section": "Machine Learning for Compressible Flows",
+    "text": "Machine Learning for Compressible Flows\n\n\n\nSU2: open-source solver for compressible CFD\nNICFD module extends to non-ideal fluid simulations\nUses MLPs or LUTs to model fluid properties\nMy GSoC work: improving efficiency and usability of SU2’s ML module"
+  },
+  {
+    "objectID": "dp_presentation.html#learn-more-about-my-work",
+    "href": "dp_presentation.html#learn-more-about-my-work",
+    "title": "Computational Modeling and Machine Learning for Complex Physical Systems",
+    "section": "Learn More About My Work",
+    "text": "Learn More About My Work"
+  }
+]

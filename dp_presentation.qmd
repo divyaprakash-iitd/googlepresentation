@@ -1,0 +1,103 @@
+---
+title: "Computational Modeling and Machine Learning for Complex Physical Systems"
+author: "Divyaprakash"
+date: "2025-08-20"
+format: 
+  revealjs:
+    css: custom.css
+    slide-align: center
+    theme: default
+    slide-number: true
+    chalkboard: true
+    logo: iitd_logo.png
+    footer: "Divyaprakash | PhD Student | dpcfd.com"
+    # title-slide-attributes:
+      # data-background-image: "slide_cover.svg"
+      # data-background-size: "auto"
+      # data-background-opacity: "0.3"
+      # data-background-position: "bottom"
+---
+
+## Mimicking Biological Cilia
+::: {.columns}
+::: {.column width="50%"}
+- Hair-like organelles in animals & microorganisms
+- Perform both **sensing** and **actuation** functions
+- Inspire **biomimetic engineering** in microfluidics
+:::
+::: {.column width="50%"}
+<img src="cilia.svg" width="800" style="display: block; margin: auto;" />
+:::
+:::
+
+## Numerical Modeling
+::: {.columns}
+::: {.column width="60%"}
+- In-house solver in Fortran, C, Python with CUDA GPU acceleration
+- Supports multi-cilia & particle interactions with custom BCs
+- Extending to 3D code
+:::
+::: {.column width="40%"}
+<img src="algo.svg" style="display: block; margin: auto;" />
+<br>
+<img src="particle_def_animation.gif" style="display: block; margin: auto;" />
+:::
+:::
+
+## Sensing with Artificial Cilia
+<video width="100%" controls loop>
+  <source src="simulation_10.mp4" type="video/mp4">
+</video>
+
+<br>
+
+<video width="100%" controls loop>
+  <source src="simulation_web.mp4" type="video/mp4">
+</video>
+
+## Sensing with Artificial Cilia
+<img src="sensing.svg" width="800" style="display: block; margin: auto;" />
+
+## Sensing and Sorting
+<video width="100%" style="display: block; margin: auto;" controls autoplay loop>
+  <source src="ciliadnd_cropped_1.webp" type="video/webp">
+  Your browser does not support the video tag.
+</video>
+
+## Modeling Cloud Microphysics
+::: {.columns}
+::: {.column width="50%"}
+- Cloud droplet growth is hard to capture in LES due to assumptions.
+- We use **DNS + clustering** to better map droplets to superdroplets.
+- Train an ML model and predict an improved estimation of growth rates
+:::
+
+::: {.column width="50%"}
+![](cloud_py.png)
+<!-- ![](plot_nm300_wo_drops.png) -->
+:::
+:::
+
+## Modeling Cloud Microphysics
+![](plot_nm300_wo_drops.png)
+
+## Machine Learning for Compressible Flows
+::: {.columns}
+::: {.column width="75"}
+- SU2: open-source solver for compressible CFD
+- NICFD module extends to non-ideal fluid simulations
+- Uses MLPs or LUTs to model fluid properties
+- My GSoC work: improving efficiency and usability of SU2’s ML module
+:::
+
+::: {.column width="25"}
+<img src="gsoc_logo.png" style="display: block; margin: auto;" />
+<br>
+<img src="su2_foundations_logo.png" style="display: block; margin: auto;" width="150" />
+:::
+:::
+
+
+## Learn More About My Work
+<!-- ![](qr-code.png) -->
+<img src="qr-code.png" width="500" style="display: block; margin: auto;" />
